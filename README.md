@@ -17,9 +17,6 @@ I'm currently a student in the Faculty of Computer and Information Technology at
   <a href="https://www.instagram.com/umarsaleem816?igsh=ZjYyZjAycWl6OXk4" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="umarsaleem0816@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
-  </a>
   <a href="https://leetcode.com/u/Umar__Saleem/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="LeetCode" width="40" height="40"/>
   </a>
